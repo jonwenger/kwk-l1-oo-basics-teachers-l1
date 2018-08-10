@@ -12,7 +12,7 @@ class Cats
   end
   
   def is_it_fuzzy
-    
+    @fuzzy
   end 
   
 end
@@ -22,6 +22,7 @@ tiger = Cats.new("Oh, it's super snazzy", "pretty fuzzy", "super duper mean", "a
 garfield = Cats.new("ewwwww", "yeah... kinda", "well... he kinda hates mondays", "nope")
 
 puts garfield.is_it_cute
+puts "is garfield fuzzy?"
 puts garfield.is_it_fuzzy
 
 
