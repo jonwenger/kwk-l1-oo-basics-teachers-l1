@@ -5,15 +5,7 @@ class Cats
     @fuzzy = fuzzy  
     @mean = mean 
   end 
-  
-  def basic_facts
-    puts "this cat is an obligatory carnivore"
-    puts "and it has curved claws"
-    puts "it has 30 teeth"
-  end 
-  
-  
-  end 
+
   
 end
 
