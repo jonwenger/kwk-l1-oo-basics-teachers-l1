@@ -27,5 +27,6 @@ tiger = Cats.new("Oh, it's super snazzy", "pretty fuzzy", "super duper mean", "a
 garfield = Cats.new("ewwwww", "yeah... kinda", "well... he kinda hates mondays", "nope")
 
 garfield.base_traits
+tiger.base_traits
 
 
