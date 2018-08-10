@@ -12,16 +12,7 @@ class Cats
     puts "it has 30 teeth"
   end 
   
-  def is_it_cute
-    @cute
-  end 
   
-  def is_it_mean
-    @mean
-  end 
-  
-  def is_it_fuzzy
-    @fuzzy
   end 
   
 end
