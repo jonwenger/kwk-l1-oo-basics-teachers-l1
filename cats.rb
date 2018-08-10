@@ -15,6 +15,8 @@ class Cats
     @fuzzy
   end 
   
+  
+  
 end
 
 tiger = Cats.new("Oh, it's super snazzy", "pretty fuzzy", "super duper mean", "absolutely not")
