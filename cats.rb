@@ -29,4 +29,7 @@ garfield = Cats.new("ewwwww", "yeah... kinda", "well... he kinda hates mondays",
 garfield.base_traits
 tiger.base_traits
 
+puts garfield.is_it_fuzzy
+puts tiger.is_it_fuzzy
+
 
