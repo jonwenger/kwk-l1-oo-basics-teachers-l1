@@ -6,6 +6,7 @@ class Cats
     @mean = mean 
     @cuddly = cuddly
   end 
+
   
   def is_it_cute
     @cute
@@ -15,7 +16,9 @@ class Cats
     @fuzzy
   end 
   
-  
+  def base_traits
+    puts "It is an obligate carnivore. It has 30 teeth. It has curved claws"
+  end 
   
 end
 
